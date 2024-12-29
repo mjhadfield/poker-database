@@ -1,0 +1,1730 @@
+﻿PokerStars Hand #254087585611:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:51:07 WET [2024/12/29 10:51:07 ET]
+Table 'Peacock II' 9-max Seat #5 is the button
+Seat 2: LelioA ($0 in chips) is sitting out
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.95 in chips) 
+Seat 3: Vmarijn ($3.57 in chips) 
+Seat 5: christiko1 ($0.75 in chips) 
+Seat 6: NomoFomo ($1.13 in chips) 
+Seat 7: everyonedoes ($2 in chips) 
+Seat 8: DiamaraQ ($1.95 in chips) 
+Seat 9: UlicyWiesci ($1.97 in chips) 
+NomoFomo: posts small blind $0.01
+everyonedoes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [8h 9h]
+LelioA leaves the table
+DiamaraQ: raises $0.04 to $0.06
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+Vmarijn: calls $0.06
+christiko1: calls $0.06
+NomoFomo: calls $0.05
+everyonedoes: calls $0.04
+*** FLOP *** [7d 5s 3h]
+NomoFomo: checks 
+everyonedoes: checks 
+M@xium70 joins the table at seat #2 
+DiamaraQ: checks 
+Vmarijn: checks 
+christiko1: checks 
+*** TURN *** [7d 5s 3h] [8d]
+NomoFomo: checks 
+everyonedoes: bets $0.12
+DiamaraQ: folds 
+Vmarijn: folds 
+christiko1: calls $0.12
+NomoFomo: folds 
+*** RIVER *** [7d 5s 3h 8d] [2d]
+everyonedoes: checks 
+christiko1: checks 
+*** SHOW DOWN ***
+everyonedoes: shows [8h 9h] (a pair of Eights)
+christiko1: mucks hand 
+everyonedoes collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.03 
+Board [7d 5s 3h 8d 2d]
+Seat 2: LelioA
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 3: Vmarijn folded on the Turn
+Seat 5: christiko1 (button) mucked [Td Jh]
+Seat 6: NomoFomo (small blind) folded on the Turn
+Seat 7: everyonedoes (big blind) showed [8h 9h] and won ($0.51) with a pair of Eights
+Seat 8: DiamaraQ folded on the Turn
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087604281:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:52:18 WET [2024/12/29 10:52:18 ET]
+Table 'Peacock II' 9-max Seat #6 is the button
+Seat 2: M@xium70 ($2 in chips) is sitting out
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.95 in chips) 
+Seat 3: Vmarijn ($3.51 in chips) 
+Seat 5: christiko1 ($0.57 in chips) 
+Seat 6: NomoFomo ($1.07 in chips) 
+Seat 7: everyonedoes ($2.33 in chips) 
+Seat 8: DiamaraQ ($1.89 in chips) 
+Seat 9: UlicyWiesci ($1.97 in chips) 
+everyonedoes: posts small blind $0.01
+DiamaraQ: posts big blind $0.02
+M@xium70: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [9s Td]
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+Vmarijn: calls $0.02
+christiko1: folds 
+NomoFomo: calls $0.02
+everyonedoes: calls $0.01
+DiamaraQ: checks 
+*** FLOP *** [Ac 9h Qc]
+everyonedoes: checks 
+DiamaraQ: checks 
+Vmarijn: bets $0.08
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+Uncalled bet ($0.08) returned to Vmarijn
+Vmarijn collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ac 9h Qc]
+Seat 2: M@xium70
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 3: Vmarijn collected ($0.08)
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo (button) folded on the Flop
+Seat 7: everyonedoes (small blind) folded on the Flop
+Seat 8: DiamaraQ (big blind) folded on the Flop
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087618903:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:53:13 WET [2024/12/29 10:53:13 ET]
+Table 'Peacock II' 9-max Seat #7 is the button
+Seat 2: M@xium70 ($2 in chips) is sitting out
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.95 in chips) 
+Seat 3: Vmarijn ($3.57 in chips) 
+Seat 5: christiko1 ($0.57 in chips) 
+Seat 6: NomoFomo ($1.05 in chips) 
+Seat 7: everyonedoes ($2.31 in chips) 
+Seat 8: DiamaraQ ($1.87 in chips) 
+Seat 9: UlicyWiesci ($1.97 in chips) 
+DiamaraQ: posts small blind $0.01
+UlicyWiesci: posts big blind $0.02
+M@xium70: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [Qc 5d]
+EngMarcoRoc: folds 
+Vmarijn: folds 
+christiko1: calls $0.02
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: checks 
+*** FLOP *** [8s 3s Ah]
+UlicyWiesci: checks 
+christiko1: checks 
+*** TURN *** [8s 3s Ah] [8d]
+UlicyWiesci: bets $0.03
+christiko1: folds 
+Uncalled bet ($0.03) returned to UlicyWiesci
+UlicyWiesci collected $0.05 from pot
+UlicyWiesci: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 3s Ah 8d]
+Seat 2: M@xium70
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 3: Vmarijn folded before Flop (didn't bet)
+Seat 5: christiko1 folded on the Turn
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes (button) folded before Flop (didn't bet)
+Seat 8: DiamaraQ (small blind) folded before Flop
+Seat 9: UlicyWiesci (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #254087627039:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:53:44 WET [2024/12/29 10:53:44 ET]
+Table 'Peacock II' 9-max Seat #8 is the button
+Seat 2: M@xium70 ($2 in chips) is sitting out
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.95 in chips) 
+Seat 3: Vmarijn ($3.57 in chips) 
+Seat 5: christiko1 ($0.55 in chips) 
+Seat 6: NomoFomo ($1.05 in chips) 
+Seat 7: everyonedoes ($2.31 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2 in chips) 
+UlicyWiesci: posts small blind $0.01
+EngMarcoRoc: posts big blind $0.02
+M@xium70: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [5s 9s]
+Vmarijn: folds 
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: raises $0.02 to $0.04
+EngMarcoRoc: folds 
+Uncalled bet ($0.02) returned to UlicyWiesci
+UlicyWiesci collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: M@xium70
+Seat 4: topjeans
+Seat 1: EngMarcoRoc (big blind) folded before Flop
+Seat 3: Vmarijn folded before Flop (didn't bet)
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ (button) folded before Flop (didn't bet)
+Seat 9: UlicyWiesci (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #254087635127:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:54:14 WET [2024/12/29 10:54:14 ET]
+Table 'Peacock II' 9-max Seat #9 is the button
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.93 in chips) 
+Seat 2: M@xium70 ($2 in chips) 
+Seat 3: Vmarijn ($3.57 in chips) 
+Seat 5: christiko1 ($0.55 in chips) 
+Seat 6: NomoFomo ($1.05 in chips) 
+Seat 7: everyonedoes ($2.31 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2.02 in chips) 
+EngMarcoRoc: posts small blind $0.01
+M@xium70: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [8d Qc]
+Vmarijn: calls $0.02
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ has timed out
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: checks 
+*** FLOP *** [8c Ts Ac]
+M@xium70: checks 
+Vmarijn: bets $0.03
+M@xium70: raises $0.03 to $0.06
+Vmarijn: calls $0.03
+*** TURN *** [8c Ts Ac] [4s]
+M@xium70: bets $0.08
+Vmarijn: calls $0.08
+*** RIVER *** [8c Ts Ac 4s] [9h]
+M@xium70: bets $0.16
+Vmarijn: folds 
+Uncalled bet ($0.16) returned to M@xium70
+M@xium70 collected $0.31 from pot
+M@xium70: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.02 
+Board [8c Ts Ac 4s 9h]
+Seat 4: topjeans
+Seat 1: EngMarcoRoc (small blind) folded before Flop
+Seat 2: M@xium70 (big blind) collected ($0.31)
+Seat 3: Vmarijn folded on the River
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087660313:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:56:09 WET [2024/12/29 10:56:09 ET]
+Table 'Peacock II' 9-max Seat #1 is the button
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.15 in chips) 
+Seat 3: Vmarijn ($3.41 in chips) 
+Seat 5: christiko1 ($0.55 in chips) 
+Seat 6: NomoFomo ($1.05 in chips) 
+Seat 7: everyonedoes ($2.31 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2.02 in chips) 
+M@xium70: posts small blind $0.01
+Vmarijn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Kc 8d]
+christiko1: calls $0.02
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: raises $0.07 to $0.09
+EngMarcoRoc: folds 
+M@xium70: folds 
+Vmarijn: folds 
+christiko1: calls $0.07
+*** FLOP *** [Qc 9h 7d]
+christiko1: checks 
+UlicyWiesci: bets $0.10
+christiko1: folds 
+Uncalled bet ($0.10) returned to UlicyWiesci
+UlicyWiesci collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qc 9h 7d]
+Seat 4: topjeans
+Seat 1: EngMarcoRoc (button) folded before Flop (didn't bet)
+Seat 2: M@xium70 (small blind) folded before Flop
+Seat 3: Vmarijn (big blind) folded before Flop
+Seat 5: christiko1 folded on the Flop
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci collected ($0.20)
+
+
+
+PokerStars Hand #254087667195:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:56:47 WET [2024/12/29 10:56:47 ET]
+Table 'Peacock II' 9-max Seat #2 is the button
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.14 in chips) 
+Seat 3: Vmarijn ($3.39 in chips) 
+Seat 5: christiko1 ($0.46 in chips) 
+Seat 6: NomoFomo ($1.05 in chips) 
+Seat 7: everyonedoes ($2.31 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2.13 in chips) 
+Vmarijn: posts small blind $0.01
+christiko1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Jd 3s]
+NomoFomo: calls $0.02
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: folds 
+Vmarijn: calls $0.01
+christiko1: raises $0.06 to $0.08
+NomoFomo: calls $0.06
+Vmarijn: folds 
+*** FLOP *** [6c 5d 8d]
+christiko1: checks 
+NomoFomo: checks 
+*** TURN *** [6c 5d 8d] [8h]
+christiko1: checks 
+NomoFomo: checks 
+*** RIVER *** [6c 5d 8d 8h] [7h]
+christiko1: checks 
+NomoFomo: checks 
+*** SHOW DOWN ***
+christiko1: shows [Jc Ah] (a pair of Eights)
+NomoFomo: mucks hand 
+christiko1 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6c 5d 8d 8h 7h]
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 (button) folded before Flop (didn't bet)
+Seat 3: Vmarijn (small blind) folded before Flop
+Seat 5: christiko1 (big blind) showed [Jc Ah] and won ($0.17) with a pair of Eights
+Seat 6: NomoFomo mucked [Kc Qc]
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087674272:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:57:25 WET [2024/12/29 10:57:25 ET]
+Table 'Peacock II' 9-max Seat #3 is the button
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.14 in chips) 
+Seat 3: Vmarijn ($3.37 in chips) 
+Seat 5: christiko1 ($0.55 in chips) 
+Seat 6: NomoFomo ($0.97 in chips) 
+Seat 7: everyonedoes ($2.31 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2.13 in chips) 
+christiko1: posts small blind $0.01
+NomoFomo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Ks Ts]
+everyonedoes: raises $0.03 to $0.05
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: calls $0.05
+Vmarijn: folds 
+christiko1: calls $0.04
+NomoFomo: calls $0.03
+*** FLOP *** [Kc 5s Kh]
+christiko1: checks 
+NomoFomo: checks 
+everyonedoes: bets $0.10
+M@xium70: folds 
+christiko1: folds 
+NomoFomo: folds 
+Uncalled bet ($0.10) returned to everyonedoes
+everyonedoes collected $0.19 from pot
+everyonedoes: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kc 5s Kh]
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded on the Flop
+Seat 3: Vmarijn (button) folded before Flop (didn't bet)
+Seat 5: christiko1 (small blind) folded on the Flop
+Seat 6: NomoFomo (big blind) folded on the Flop
+Seat 7: everyonedoes collected ($0.19)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087681163:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:58:02 WET [2024/12/29 10:58:02 ET]
+Table 'Peacock II' 9-max Seat #5 is the button
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.09 in chips) 
+Seat 3: Vmarijn ($3.37 in chips) 
+Seat 5: christiko1 ($0.50 in chips) 
+Seat 6: NomoFomo ($0.92 in chips) 
+Seat 7: everyonedoes ($2.45 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2.13 in chips) 
+NomoFomo: posts small blind $0.01
+everyonedoes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [5s 8s]
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: raises $0.02 to $0.04
+Vmarijn: folds 
+christiko1: calls $0.04
+NomoFomo: calls $0.03
+everyonedoes: calls $0.02
+*** FLOP *** [Kh Ts 7s]
+NomoFomo: checks 
+everyonedoes: checks 
+M@xium70: bets $0.08
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: calls $0.08
+*** TURN *** [Kh Ts 7s] [Kc]
+everyonedoes: checks 
+M@xium70: checks 
+*** RIVER *** [Kh Ts 7s Kc] [4c]
+everyonedoes: checks 
+M@xium70: checks 
+*** SHOW DOWN ***
+everyonedoes: shows [5s 8s] (a pair of Kings)
+M@xium70: shows [As Jh] (a pair of Kings - Ace kicker)
+M@xium70 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.02 
+Board [Kh Ts 7s Kc 4c]
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 showed [As Jh] and won ($0.30) with a pair of Kings
+Seat 3: Vmarijn folded before Flop (didn't bet)
+Seat 5: christiko1 (button) folded on the Flop
+Seat 6: NomoFomo (small blind) folded on the Flop
+Seat 7: everyonedoes (big blind) showed [5s 8s] and lost with a pair of Kings
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087689694:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 15:58:48 WET [2024/12/29 10:58:48 ET]
+Table 'Peacock II' 9-max Seat #6 is the button
+Seat 4: topjeans ($0.33 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.27 in chips) 
+Seat 3: Vmarijn ($3.37 in chips) 
+Seat 5: christiko1 ($0.46 in chips) 
+Seat 6: NomoFomo ($0.88 in chips) 
+Seat 7: everyonedoes ($2.33 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: UlicyWiesci ($2.13 in chips) 
+everyonedoes: posts small blind $0.01
+DiamaraQ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Jd 9c]
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: folds 
+Vmarijn: calls $0.02
+christiko1: calls $0.02
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: checks 
+*** FLOP *** [Qh 8c 7d]
+DiamaraQ: checks 
+Vmarijn: bets $0.04
+christiko1: calls $0.04
+DiamaraQ: calls $0.04
+*** TURN *** [Qh 8c 7d] [Jc]
+DiamaraQ: checks 
+topjeans leaves the table
+Vmarijn: bets $0.18
+christiko1: folds 
+dejavoo88 joins the table at seat #4 
+dejavoo88 is disconnected 
+DiamaraQ: folds 
+Uncalled bet ($0.18) returned to Vmarijn
+Vmarijn collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qh 8c 7d Jc]
+Seat 4: topjeans
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn collected ($0.18)
+Seat 5: christiko1 folded on the Turn
+Seat 6: NomoFomo (button) folded before Flop (didn't bet)
+Seat 7: everyonedoes (small blind) folded before Flop
+Seat 8: DiamaraQ (big blind) folded on the Turn
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087703954:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:00:04 WET [2024/12/29 11:00:04 ET]
+Table 'Peacock II' 9-max Seat #7 is the button
+Seat 4: dejavoo88 ($1.60 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.27 in chips) 
+Seat 3: Vmarijn ($3.49 in chips) 
+Seat 5: christiko1 ($0.40 in chips) 
+Seat 6: NomoFomo ($0.88 in chips) 
+Seat 7: everyonedoes ($2.32 in chips) 
+Seat 8: DiamaraQ ($1.80 in chips) 
+Seat 9: UlicyWiesci ($2.13 in chips) 
+DiamaraQ: posts small blind $0.01
+UlicyWiesci: posts big blind $0.02
+dejavoo88: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [4s 6s]
+EngMarcoRoc: folds 
+M@xium70: folds 
+Vmarijn: folds 
+christiko1: folds 
+NomoFomo: calls $0.02
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: checks 
+*** FLOP *** [9d Qd Kc]
+UlicyWiesci: checks 
+NomoFomo: bets $0.05
+UlicyWiesci: folds 
+Uncalled bet ($0.05) returned to NomoFomo
+NomoFomo collected $0.05 from pot
+NomoFomo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9d Qd Kc]
+Seat 4: dejavoo88
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn folded before Flop (didn't bet)
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo collected ($0.05)
+Seat 7: everyonedoes (button) folded before Flop (didn't bet)
+Seat 8: DiamaraQ (small blind) folded before Flop
+Seat 9: UlicyWiesci (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254087711741:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:00:44 WET [2024/12/29 11:00:44 ET]
+Table 'Peacock II' 9-max Seat #8 is the button
+Seat 4: dejavoo88 ($1.60 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.92 in chips) 
+Seat 2: M@xium70 ($2.27 in chips) 
+Seat 3: Vmarijn ($3.49 in chips) 
+Seat 5: christiko1 ($0.40 in chips) 
+Seat 6: NomoFomo ($0.91 in chips) 
+Seat 7: everyonedoes ($2.32 in chips) 
+Seat 8: DiamaraQ ($1.79 in chips) 
+Seat 9: UlicyWiesci ($2.11 in chips) 
+UlicyWiesci: posts small blind $0.01
+EngMarcoRoc: posts big blind $0.02
+dejavoo88: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [Qc 5h]
+M@xium70: calls $0.02
+Vmarijn: calls $0.02
+christiko1: calls $0.02
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: calls $0.01
+EngMarcoRoc: checks 
+*** FLOP *** [7h Jh 4h]
+UlicyWiesci: checks 
+EngMarcoRoc: checks 
+M@xium70: checks 
+Vmarijn: checks 
+christiko1: bets $0.05
+UlicyWiesci: folds 
+EngMarcoRoc: calls $0.05
+M@xium70: folds 
+Vmarijn: folds 
+*** TURN *** [7h Jh 4h] [5s]
+EngMarcoRoc: checks 
+christiko1: bets $0.06
+EngMarcoRoc: calls $0.06
+*** RIVER *** [7h Jh 4h 5s] [Tc]
+EngMarcoRoc: checks 
+christiko1: checks 
+*** SHOW DOWN ***
+EngMarcoRoc: shows [8d 7s] (a pair of Sevens)
+christiko1: shows [Js Qd] (a pair of Jacks)
+christiko1 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.02 
+Board [7h Jh 4h 5s Tc]
+Seat 4: dejavoo88
+Seat 1: EngMarcoRoc (big blind) showed [8d 7s] and lost with a pair of Sevens
+Seat 2: M@xium70 folded on the Flop
+Seat 3: Vmarijn folded on the Flop
+Seat 5: christiko1 showed [Js Qd] and won ($0.30) with a pair of Jacks
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ (button) folded before Flop (didn't bet)
+Seat 9: UlicyWiesci (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254087730356:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:02:01 WET [2024/12/29 11:02:01 ET]
+Table 'Peacock II' 9-max Seat #9 is the button
+Seat 4: dejavoo88 ($1.60 in chips) is sitting out
+Seat 5: christiko1 ($0.57 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.79 in chips) 
+Seat 2: M@xium70 ($2.25 in chips) 
+Seat 3: Vmarijn ($3.47 in chips) 
+Seat 6: NomoFomo ($0.91 in chips) 
+Seat 7: everyonedoes ($2.32 in chips) 
+Seat 8: DiamaraQ ($1.79 in chips) 
+Seat 9: UlicyWiesci ($2.09 in chips) 
+EngMarcoRoc: posts small blind $0.01
+M@xium70: posts big blind $0.02
+dejavoo88: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [7s 7c]
+Vmarijn: calls $0.02
+NomoFomo: folds 
+everyonedoes: raises $0.04 to $0.06
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: calls $0.05
+M@xium70: folds 
+Vmarijn: calls $0.04
+*** FLOP *** [Ah 2h 4h]
+EngMarcoRoc: checks 
+Vmarijn: checks 
+everyonedoes: bets $0.10
+EngMarcoRoc: folds 
+Vmarijn: calls $0.10
+*** TURN *** [Ah 2h 4h] [Td]
+Vmarijn: checks 
+everyonedoes: checks 
+*** RIVER *** [Ah 2h 4h Td] [4c]
+Vmarijn: bets $0.38
+everyonedoes: folds 
+Uncalled bet ($0.38) returned to Vmarijn
+Vmarijn collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Ah 2h 4h Td 4c]
+Seat 4: dejavoo88
+Seat 5: christiko1
+Seat 1: EngMarcoRoc (small blind) folded on the Flop
+Seat 2: M@xium70 (big blind) folded before Flop
+Seat 3: Vmarijn collected ($0.38)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded on the River
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087750200:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:03:16 WET [2024/12/29 11:03:16 ET]
+Table 'Peacock II' 9-max Seat #1 is the button
+Seat 4: dejavoo88 ($1.60 in chips) is sitting out
+Seat 5: christiko1 ($0.57 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.73 in chips) 
+Seat 2: M@xium70 ($2.23 in chips) 
+Seat 3: Vmarijn ($3.69 in chips) 
+Seat 6: NomoFomo ($0.91 in chips) 
+Seat 7: everyonedoes ($2.16 in chips) 
+Seat 8: DiamaraQ ($1.79 in chips) 
+Seat 9: UlicyWiesci ($2.09 in chips) 
+M@xium70: posts small blind $0.01
+Vmarijn: posts big blind $0.02
+dejavoo88: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [3s Ad]
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: folds 
+Uncalled bet ($0.01) returned to Vmarijn
+Vmarijn collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 4: dejavoo88
+Seat 5: christiko1
+Seat 1: EngMarcoRoc (button) folded before Flop (didn't bet)
+Seat 2: M@xium70 (small blind) folded before Flop
+Seat 3: Vmarijn (big blind) collected ($0.02)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087756384:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:03:38 WET [2024/12/29 11:03:38 ET]
+Table 'Peacock II' 9-max Seat #2 is the button
+Seat 5: christiko1 ($0.57 in chips) is sitting out
+Seat 1: EngMarcoRoc ($1.73 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($3.70 in chips) 
+Seat 4: dejavoo88 ($1.60 in chips) 
+Seat 6: NomoFomo ($0.91 in chips) 
+Seat 7: everyonedoes ($2.16 in chips) 
+Seat 8: DiamaraQ ($1.79 in chips) 
+Seat 9: UlicyWiesci ($2.09 in chips) 
+Vmarijn: posts small blind $0.01
+dejavoo88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [As 3s]
+NomoFomo: calls $0.02
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: calls $0.02
+M@xium70: folds 
+Vmarijn: calls $0.01
+dejavoo88: checks 
+*** FLOP *** [2d 4c 9d]
+Vmarijn: checks 
+dejavoo88: checks 
+NomoFomo: checks 
+EngMarcoRoc: bets $0.06
+Vmarijn: folds 
+dejavoo88: folds 
+NomoFomo: folds 
+Uncalled bet ($0.06) returned to EngMarcoRoc
+EngMarcoRoc collected $0.08 from pot
+EngMarcoRoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2d 4c 9d]
+Seat 5: christiko1
+Seat 1: EngMarcoRoc collected ($0.08)
+Seat 2: M@xium70 (button) folded before Flop (didn't bet)
+Seat 3: Vmarijn (small blind) folded on the Flop
+Seat 4: dejavoo88 (big blind) folded on the Flop
+Seat 6: NomoFomo folded on the Flop
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087770856:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:04:32 WET [2024/12/29 11:04:32 ET]
+Table 'Peacock II' 9-max Seat #3 is the button
+Seat 1: EngMarcoRoc ($1.79 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($3.68 in chips) 
+Seat 4: dejavoo88 ($1.58 in chips) 
+Seat 5: christiko1 ($0.57 in chips) 
+Seat 6: NomoFomo ($0.89 in chips) 
+Seat 7: everyonedoes ($2.16 in chips) 
+Seat 8: DiamaraQ ($1.79 in chips) 
+Seat 9: UlicyWiesci ($2.09 in chips) 
+dejavoo88: posts small blind $0.01
+christiko1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [3c 4d]
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: raises $0.04 to $0.06
+UlicyWiesci: calls $0.06
+EngMarcoRoc: folds 
+M@xium70: folds 
+Vmarijn: calls $0.06
+dejavoo88: folds 
+christiko1: raises $0.51 to $0.57 and is all-in
+DiamaraQ: folds 
+UlicyWiesci: folds 
+Vmarijn: calls $0.51
+*** FLOP *** [As 2d 7h]
+*** TURN *** [As 2d 7h] [5s]
+*** RIVER *** [As 2d 7h 5s] [9h]
+*** SHOW DOWN ***
+christiko1: shows [Qs Qc] (a pair of Queens)
+Vmarijn: shows [Ah 2c] (two pair, Aces and Deuces)
+Vmarijn collected $1.21 from pot
+christiko1 cashed out the hand for $0.85 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [As 2d 7h 5s 9h]
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn (button) showed [Ah 2c] and won ($1.21) with two pair, Aces and Deuces
+Seat 4: dejavoo88 (small blind) folded before Flop
+Seat 5: christiko1 (big blind) showed [Qs Qc] and lost with a pair of Queens (cashed out).
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop
+Seat 9: UlicyWiesci folded before Flop
+
+
+
+PokerStars Hand #254087791702:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:05:47 WET [2024/12/29 11:05:47 ET]
+Table 'Peacock II' 9-max Seat #4 is the button
+Seat 1: EngMarcoRoc ($1.79 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($4.32 in chips) 
+Seat 4: dejavoo88 ($1.57 in chips) 
+Seat 5: christiko1 ($0.85 in chips) 
+Seat 6: NomoFomo ($0.89 in chips) 
+Seat 7: everyonedoes ($2.16 in chips) 
+Seat 8: DiamaraQ ($1.73 in chips) 
+Seat 9: UlicyWiesci ($2.03 in chips) 
+christiko1: posts small blind $0.01
+NomoFomo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [2d Qs]
+everyonedoes: folds 
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: raises $0.05 to $0.07
+M@xium70 has timed out
+M@xium70: folds 
+Vmarijn: folds 
+dejavoo88: folds 
+christiko1: calls $0.06
+NomoFomo: folds 
+*** FLOP *** [6c Js 5d]
+christiko1: checks 
+EngMarcoRoc: bets $0.08
+christiko1: calls $0.08
+*** TURN *** [6c Js 5d] [Ac]
+christiko1: checks 
+EngMarcoRoc: bets $0.15
+christiko1: calls $0.15
+*** RIVER *** [6c Js 5d Ac] [Qh]
+christiko1: checks 
+EngMarcoRoc: bets $0.55
+christiko1: folds 
+Uncalled bet ($0.55) returned to EngMarcoRoc
+EngMarcoRoc collected $0.59 from pot
+EngMarcoRoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03 
+Board [6c Js 5d Ac Qh]
+Seat 1: EngMarcoRoc collected ($0.59)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn folded before Flop (didn't bet)
+Seat 4: dejavoo88 (button) folded before Flop (didn't bet)
+Seat 5: christiko1 (small blind) folded on the River
+Seat 6: NomoFomo (big blind) folded before Flop
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087815146:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:07:13 WET [2024/12/29 11:07:13 ET]
+Table 'Peacock II' 9-max Seat #5 is the button
+Seat 1: EngMarcoRoc ($2.08 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($4.32 in chips) 
+Seat 4: dejavoo88 ($1.57 in chips) 
+Seat 5: christiko1 ($0.55 in chips) 
+Seat 6: NomoFomo ($0.87 in chips) 
+Seat 7: everyonedoes ($2.16 in chips) 
+Seat 8: DiamaraQ ($1.73 in chips) 
+Seat 9: UlicyWiesci ($2.03 in chips) 
+NomoFomo: posts small blind $0.01
+everyonedoes: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [8h Jh]
+DiamaraQ: folds 
+UlicyWiesci: folds 
+EngMarcoRoc: raises $0.04 to $0.06
+M@xium70: folds 
+Vmarijn: calls $0.06
+dejavoo88: folds 
+christiko1: calls $0.06
+NomoFomo: folds 
+everyonedoes: calls $0.04
+*** FLOP *** [3c 8c Ah]
+everyonedoes: checks 
+EngMarcoRoc: checks 
+Vmarijn: bets $0.24
+christiko1: folds 
+everyonedoes: folds 
+EngMarcoRoc: folds 
+Uncalled bet ($0.24) returned to Vmarijn
+Vmarijn collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 8c Ah]
+Seat 1: EngMarcoRoc folded on the Flop
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn collected ($0.24)
+Seat 4: dejavoo88 folded before Flop (didn't bet)
+Seat 5: christiko1 (button) folded on the Flop
+Seat 6: NomoFomo (small blind) folded before Flop
+Seat 7: everyonedoes (big blind) folded on the Flop
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087829224:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:08:04 WET [2024/12/29 11:08:04 ET]
+Table 'Peacock II' 9-max Seat #6 is the button
+Seat 1: EngMarcoRoc ($2.02 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($4.50 in chips) 
+Seat 4: dejavoo88 ($1.57 in chips) 
+Seat 5: christiko1 ($0.49 in chips) 
+Seat 6: NomoFomo ($0.86 in chips) 
+Seat 7: everyonedoes ($2.10 in chips) 
+Seat 8: DiamaraQ ($1.73 in chips) 
+Seat 9: UlicyWiesci ($2.03 in chips) 
+everyonedoes: posts small blind $0.01
+DiamaraQ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [2c As]
+UlicyWiesci: folds 
+EngMarcoRoc: folds 
+M@xium70: folds 
+Vmarijn: calls $0.02
+dejavoo88: calls $0.02
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: checks 
+*** FLOP *** [2d 9s 3c]
+DiamaraQ: checks 
+Vmarijn: checks 
+dejavoo88: checks 
+*** TURN *** [2d 9s 3c] [9h]
+DiamaraQ: bets $0.04
+Vmarijn: calls $0.04
+dejavoo88: folds 
+*** RIVER *** [2d 9s 3c 9h] [6d]
+DiamaraQ: checks 
+Vmarijn: bets $0.14
+UlicyWiesci leaves the table
+aleas181 joins the table at seat #9 
+aleas181 is disconnected 
+DiamaraQ: calls $0.14
+*** SHOW DOWN ***
+Vmarijn: shows [4d Ah] (a pair of Nines)
+DiamaraQ: shows [3s 7c] (two pair, Nines and Threes)
+DiamaraQ collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2d 9s 3c 9h 6d]
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn showed [4d Ah] and lost with a pair of Nines
+Seat 4: dejavoo88 folded on the Turn
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo (button) folded before Flop (didn't bet)
+Seat 7: everyonedoes (small blind) folded before Flop
+Seat 8: DiamaraQ (big blind) showed [3s 7c] and won ($0.41) with two pair, Nines and Threes
+Seat 9: UlicyWiesci folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087861647:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:10:02 WET [2024/12/29 11:10:02 ET]
+Table 'Peacock II' 9-max Seat #7 is the button
+Seat 1: EngMarcoRoc ($2.02 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($4.30 in chips) 
+Seat 4: dejavoo88 ($1.55 in chips) 
+Seat 5: christiko1 ($0.49 in chips) 
+Seat 6: NomoFomo ($0.86 in chips) 
+Seat 7: everyonedoes ($2.09 in chips) 
+Seat 8: DiamaraQ ($1.94 in chips) 
+Seat 9: aleas181 ($0.80 in chips) 
+DiamaraQ: posts small blind $0.01
+aleas181: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Qd 7h]
+EngMarcoRoc: folds 
+M@xium70 has timed out
+M@xium70: folds 
+Vmarijn: calls $0.02
+dejavoo88: folds 
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: calls $0.01
+aleas181: checks 
+*** FLOP *** [6s 3c Js]
+DiamaraQ: checks 
+aleas181: bets $0.02
+Vmarijn: raises $0.05 to $0.07
+DiamaraQ: folds 
+aleas181: folds 
+Uncalled bet ($0.05) returned to Vmarijn
+Vmarijn collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6s 3c Js]
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn collected ($0.10)
+Seat 4: dejavoo88 folded before Flop (didn't bet)
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes (button) folded before Flop (didn't bet)
+Seat 8: DiamaraQ (small blind) folded on the Flop
+Seat 9: aleas181 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254087878833:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:11:04 WET [2024/12/29 11:11:04 ET]
+Table 'Peacock II' 9-max Seat #8 is the button
+Seat 1: EngMarcoRoc ($2.02 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($4.36 in chips) 
+Seat 4: dejavoo88 ($1.55 in chips) 
+Seat 5: christiko1 ($0.49 in chips) 
+Seat 6: NomoFomo ($0.86 in chips) 
+Seat 7: everyonedoes ($2.09 in chips) 
+Seat 8: DiamaraQ ($1.92 in chips) 
+Seat 9: aleas181 ($0.76 in chips) 
+aleas181: posts small blind $0.01
+EngMarcoRoc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [2h 6s]
+M@xium70: folds 
+Vmarijn: calls $0.02
+dejavoo88: calls $0.02
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: calls $0.01
+EngMarcoRoc: checks 
+*** FLOP *** [Ks 9c Ac]
+aleas181: checks 
+EngMarcoRoc: checks 
+Vmarijn: bets $0.08
+dejavoo88: folds 
+aleas181: folds 
+EngMarcoRoc: folds 
+Uncalled bet ($0.08) returned to Vmarijn
+Vmarijn collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ks 9c Ac]
+Seat 1: EngMarcoRoc (big blind) folded on the Flop
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: Vmarijn collected ($0.08)
+Seat 4: dejavoo88 folded on the Flop
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ (button) folded before Flop (didn't bet)
+Seat 9: aleas181 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254087893416:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:11:56 WET [2024/12/29 11:11:56 ET]
+Table 'Peacock II' 9-max Seat #9 is the button
+Seat 1: EngMarcoRoc ($2 in chips) 
+Seat 2: M@xium70 ($2.22 in chips) 
+Seat 3: Vmarijn ($4.42 in chips) 
+Seat 4: dejavoo88 ($1.53 in chips) 
+Seat 5: christiko1 ($0.49 in chips) 
+Seat 6: NomoFomo ($0.86 in chips) 
+Seat 7: everyonedoes ($2.09 in chips) 
+Seat 8: DiamaraQ ($1.92 in chips) 
+Seat 9: aleas181 ($0.74 in chips) 
+EngMarcoRoc: posts small blind $0.01
+M@xium70: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [6s Tc]
+Vmarijn: calls $0.02
+dejavoo88: calls $0.02
+christiko1: calls $0.02
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: calls $0.02
+EngMarcoRoc: folds 
+M@xium70: checks 
+*** FLOP *** [9h Qd 9d]
+M@xium70: checks 
+Vmarijn: bets $0.10
+dejavoo88: calls $0.10
+christiko1: folds 
+aleas181: folds 
+M@xium70: folds 
+*** TURN *** [9h Qd 9d] [Kh]
+Vmarijn: bets $0.35
+dejavoo88: calls $0.35
+*** RIVER *** [9h Qd 9d Kh] [5s]
+Vmarijn: bets $0.96
+dejavoo88: calls $0.96
+*** SHOW DOWN ***
+Vmarijn: shows [Qs Ah] (two pair, Queens and Nines)
+dejavoo88: shows [Ts 9c] (three of a kind, Nines)
+dejavoo88 collected $2.78 from pot
+*** SUMMARY ***
+Total pot $2.93 | Rake $0.15 
+Board [9h Qd 9d Kh 5s]
+Seat 1: EngMarcoRoc (small blind) folded before Flop
+Seat 2: M@xium70 (big blind) folded on the Flop
+Seat 3: Vmarijn showed [Qs Ah] and lost with two pair, Queens and Nines
+Seat 4: dejavoo88 showed [Ts 9c] and won ($2.78) with three of a kind, Nines
+Seat 5: christiko1 folded on the Flop
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: aleas181 (button) folded on the Flop
+
+
+
+PokerStars Hand #254087919274:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:13:29 WET [2024/12/29 11:13:29 ET]
+Table 'Peacock II' 9-max Seat #1 is the button
+Seat 1: EngMarcoRoc ($1.99 in chips) 
+Seat 2: M@xium70 ($2.20 in chips) 
+Seat 3: Vmarijn ($2.99 in chips) 
+Seat 4: dejavoo88 ($2.88 in chips) 
+Seat 5: christiko1 ($0.47 in chips) 
+Seat 6: NomoFomo ($0.86 in chips) 
+Seat 7: everyonedoes ($2.09 in chips) 
+Seat 8: DiamaraQ ($1.92 in chips) 
+Seat 9: aleas181 ($0.72 in chips) 
+M@xium70: posts small blind $0.01
+Vmarijn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [2c 6h]
+dejavoo88: folds 
+christiko1: folds 
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: raises $0.04 to $0.06
+aleas181: folds 
+EngMarcoRoc: raises $0.10 to $0.16
+M@xium70: folds 
+Vmarijn: folds 
+DiamaraQ: folds 
+Uncalled bet ($0.10) returned to EngMarcoRoc
+EngMarcoRoc collected $0.15 from pot
+EngMarcoRoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: EngMarcoRoc (button) collected ($0.15)
+Seat 2: M@xium70 (small blind) folded before Flop
+Seat 3: Vmarijn (big blind) folded before Flop
+Seat 4: dejavoo88 folded before Flop (didn't bet)
+Seat 5: christiko1 folded before Flop (didn't bet)
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087932410:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:14:16 WET [2024/12/29 11:14:16 ET]
+Table 'Peacock II' 9-max Seat #2 is the button
+Seat 1: EngMarcoRoc ($2.08 in chips) 
+Seat 2: M@xium70 ($2.19 in chips) 
+Seat 3: Vmarijn ($2.97 in chips) 
+Seat 4: dejavoo88 ($2.88 in chips) 
+Seat 5: christiko1 ($0.47 in chips) 
+Seat 6: NomoFomo ($0.86 in chips) 
+Seat 7: everyonedoes ($2.09 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: aleas181 ($0.72 in chips) 
+Vmarijn: posts small blind $0.01
+dejavoo88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Th Kh]
+christiko1: calls $0.02
+NomoFomo: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: folds 
+EngMarcoRoc: raises $0.06 to $0.08
+M@xium70: folds 
+Vmarijn: folds 
+dejavoo88: folds 
+christiko1: calls $0.06
+*** FLOP *** [Ad 6c 3s]
+christiko1: checks 
+Vmarijn leaves the table
+EngMarcoRoc: bets $0.10
+christiko1: folds 
+Uncalled bet ($0.10) returned to EngMarcoRoc
+DenyLi joins the table at seat #3 
+EngMarcoRoc collected $0.18 from pot
+EngMarcoRoc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ad 6c 3s]
+Seat 1: EngMarcoRoc collected ($0.18)
+Seat 2: M@xium70 (button) folded before Flop (didn't bet)
+Seat 3: Vmarijn (small blind) folded before Flop
+Seat 4: dejavoo88 (big blind) folded before Flop
+Seat 5: christiko1 folded on the Flop
+Seat 6: NomoFomo folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087948337:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:15:12 WET [2024/12/29 11:15:12 ET]
+Table 'Peacock II' 9-max Seat #4 is the button
+Seat 6: NomoFomo ($0.86 in chips) is sitting out
+Seat 1: EngMarcoRoc ($2.18 in chips) 
+Seat 2: M@xium70 ($2.19 in chips) 
+Seat 3: DenyLi ($2 in chips) 
+Seat 4: dejavoo88 ($2.86 in chips) 
+Seat 5: christiko1 ($0.39 in chips) 
+Seat 7: everyonedoes ($2.09 in chips) 
+Seat 8: DiamaraQ ($1.86 in chips) 
+Seat 9: aleas181 ($0.72 in chips) 
+christiko1: posts small blind $0.01
+NomoFomo: is sitting out 
+everyonedoes: posts big blind $0.02
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Jh 3c]
+NomoFomo leaves the table
+DiamaraQ: raises $0.04 to $0.06
+aleas181: folds 
+EngMarcoRoc: folds 
+M@xium70: folds 
+DenyLi: calls $0.04
+dejavoo88: folds 
+christiko1: calls $0.05
+everyonedoes: folds 
+*** FLOP *** [4c 7s 2d]
+christiko1: checks 
+DiamaraQ: bets $0.10
+DenyLi: folds 
+christiko1: folds 
+Uncalled bet ($0.10) returned to DiamaraQ
+DiamaraQ collected $0.19 from pot
+DiamaraQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c 7s 2d]
+Seat 6: NomoFomo
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: DenyLi folded on the Flop
+Seat 4: dejavoo88 (button) folded before Flop (didn't bet)
+Seat 5: christiko1 (small blind) folded on the Flop
+Seat 7: everyonedoes (big blind) folded before Flop
+Seat 8: DiamaraQ collected ($0.19)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254087961349:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:15:58 WET [2024/12/29 11:15:58 ET]
+Table 'Peacock II' 9-max Seat #5 is the button
+Seat 1: EngMarcoRoc ($2.18 in chips) 
+Seat 2: M@xium70 ($2.19 in chips) 
+Seat 3: DenyLi ($1.94 in chips) 
+Seat 4: dejavoo88 ($2.86 in chips) 
+Seat 5: christiko1 ($0.33 in chips) 
+Seat 7: everyonedoes ($2.07 in chips) 
+Seat 8: DiamaraQ ($1.99 in chips) 
+Seat 9: aleas181 ($0.72 in chips) 
+everyonedoes: posts small blind $0.01
+DiamaraQ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to everyonedoes [Tc Qc]
+aleas181: raises $0.06 to $0.08
+EngMarcoRoc: folds 
+M@xium70: folds 
+DenyLi: folds 
+dejavoo88: folds 
+christiko1: calls $0.08
+everyonedoes: calls $0.07
+DiamaraQ: calls $0.06
+*** FLOP *** [3d Jh 3c]
+everyonedoes: checks 
+DiamaraQ: checks 
+aleas181: bets $0.12
+christiko1: folds 
+everyonedoes: folds 
+DiamaraQ: calls $0.12
+*** TURN *** [3d Jh 3c] [7c]
+DiamaraQ: checks 
+aleas181: checks 
+*** RIVER *** [3d Jh 3c 7c] [4h]
+cintara joins the table at seat #6 
+DiamaraQ: bets $0.27
+aleas181: folds 
+Uncalled bet ($0.27) returned to DiamaraQ
+DiamaraQ collected $0.53 from pot
+DiamaraQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.03 
+Board [3d Jh 3c 7c 4h]
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: DenyLi folded before Flop (didn't bet)
+Seat 4: dejavoo88 folded before Flop (didn't bet)
+Seat 5: christiko1 (button) folded on the Flop
+Seat 7: everyonedoes (small blind) folded on the Flop
+Seat 8: DiamaraQ (big blind) collected ($0.53)
+Seat 9: aleas181 folded on the River
+
+
+
+PokerStars Hand #254087984861:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:17:22 WET [2024/12/29 11:17:22 ET]
+Table 'Peacock II' 9-max Seat #7 is the button
+Seat 5: christiko1 ($0.25 in chips) is sitting out
+Seat 6: cintara ($0.80 in chips) is sitting out
+Seat 1: EngMarcoRoc ($2.18 in chips) 
+Seat 2: M@xium70 ($2.19 in chips) 
+Seat 3: DenyLi ($1.94 in chips) 
+Seat 4: dejavoo88 ($2.86 in chips) 
+Seat 7: everyonedoes ($1.99 in chips) 
+Seat 8: DiamaraQ ($2.32 in chips) 
+Seat 9: aleas181 ($0.52 in chips) 
+DiamaraQ: posts small blind $0.01
+aleas181: posts big blind $0.02
+cintara: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [Jc 8c]
+christiko1 leaves the table
+EngMarcoRoc: folds 
+M@xium70: folds 
+DenyLi: folds 
+dejavoo88: calls $0.02
+fukazapam joins the table at seat #5 
+everyonedoes: calls $0.02
+DiamaraQ: calls $0.01
+aleas181: checks 
+*** FLOP *** [4c Ad 9h]
+DiamaraQ: checks 
+aleas181: checks 
+dejavoo88: bets $0.02
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: folds 
+Uncalled bet ($0.02) returned to dejavoo88
+dejavoo88 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4c Ad 9h]
+Seat 5: christiko1
+Seat 6: cintara
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: DenyLi folded before Flop (didn't bet)
+Seat 4: dejavoo88 collected ($0.08)
+Seat 7: everyonedoes (button) folded on the Flop
+Seat 8: DiamaraQ (small blind) folded on the Flop
+Seat 9: aleas181 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254088001948:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:18:22 WET [2024/12/29 11:18:22 ET]
+Table 'Peacock II' 9-max Seat #8 is the button
+Seat 5: fukazapam ($2 in chips) is sitting out
+Seat 6: cintara ($0.80 in chips) is sitting out
+Seat 1: EngMarcoRoc ($2.18 in chips) 
+Seat 2: M@xium70 ($2.19 in chips) 
+Seat 3: DenyLi ($1.94 in chips) 
+Seat 4: dejavoo88 ($2.92 in chips) 
+Seat 7: everyonedoes ($1.97 in chips) 
+Seat 8: DiamaraQ ($2.30 in chips) 
+Seat 9: aleas181 ($0.50 in chips) 
+aleas181: posts small blind $0.01
+EngMarcoRoc: posts big blind $0.02
+fukazapam: sits out 
+cintara: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [8d 9c]
+M@xium70: folds 
+DenyLi: folds 
+dejavoo88: calls $0.02
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: calls $0.01
+EngMarcoRoc: checks 
+*** FLOP *** [6s 6c Qc]
+aleas181: bets $0.03
+EngMarcoRoc: folds 
+dejavoo88: raises $0.03 to $0.06
+aleas181: calls $0.03
+*** TURN *** [6s 6c Qc] [Ks]
+aleas181: checks 
+dejavoo88: checks 
+*** RIVER *** [6s 6c Qc Ks] [As]
+aleas181: checks 
+dejavoo88: bets $0.17
+aleas181: calls $0.17
+*** SHOW DOWN ***
+dejavoo88: shows [6h Kh] (a full house, Sixes full of Kings)
+aleas181: mucks hand 
+dejavoo88 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.03 
+Board [6s 6c Qc Ks As]
+Seat 5: fukazapam
+Seat 6: cintara
+Seat 1: EngMarcoRoc (big blind) folded on the Flop
+Seat 2: M@xium70 folded before Flop (didn't bet)
+Seat 3: DenyLi folded before Flop (didn't bet)
+Seat 4: dejavoo88 showed [6h Kh] and won ($0.49) with a full house, Sixes full of Kings
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ (button) folded before Flop (didn't bet)
+Seat 9: aleas181 (small blind) mucked [8c Qh]
+
+
+
+PokerStars Hand #254088018586:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:19:20 WET [2024/12/29 11:19:20 ET]
+Table 'Peacock II' 9-max Seat #9 is the button
+Seat 5: fukazapam ($2 in chips) is sitting out
+Seat 6: cintara ($0.80 in chips) is sitting out
+Seat 1: EngMarcoRoc ($2.16 in chips) 
+Seat 2: M@xium70 ($2.19 in chips) 
+Seat 3: DenyLi ($1.94 in chips) 
+Seat 4: dejavoo88 ($3.16 in chips) 
+Seat 7: everyonedoes ($1.97 in chips) 
+Seat 8: DiamaraQ ($2.30 in chips) 
+Seat 9: aleas181 ($0.25 in chips) 
+EngMarcoRoc: posts small blind $0.01
+M@xium70: posts big blind $0.02
+fukazapam: sits out 
+cintara: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [4h Qs]
+DenyLi: folds 
+dejavoo88: folds 
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: raises $0.04 to $0.06
+EngMarcoRoc: folds 
+M@xium70: raises $0.04 to $0.10
+aleas181: calls $0.04
+*** FLOP *** [Qh 8c 9d]
+M@xium70: bets $0.10
+aleas181: calls $0.10
+*** TURN *** [Qh 8c 9d] [9c]
+M@xium70: bets $0.20
+aleas181: calls $0.05 and is all-in
+Uncalled bet ($0.15) returned to M@xium70
+aleas181 has timed out
+*** RIVER *** [Qh 8c 9d 9c] [6d]
+*** SHOW DOWN ***
+M@xium70: shows [As Ac] (two pair, Aces and Nines)
+aleas181: shows [7s 7c] (two pair, Nines and Sevens)
+M@xium70 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.03 
+Board [Qh 8c 9d 9c 6d]
+Seat 5: fukazapam
+Seat 6: cintara
+Seat 1: EngMarcoRoc (small blind) folded before Flop
+Seat 2: M@xium70 (big blind) showed [As Ac] and won ($0.48) with two pair, Aces and Nines
+Seat 3: DenyLi folded before Flop (didn't bet)
+Seat 4: dejavoo88 folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: aleas181 (button) showed [7s 7c] and lost with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #254088039212:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:20:33 WET [2024/12/29 11:20:33 ET]
+Table 'Peacock II' 9-max Seat #1 is the button
+Seat 5: fukazapam ($2 in chips) is sitting out
+Seat 6: cintara ($0.80 in chips) is sitting out
+Seat 9: aleas181 ($0 in chips) is sitting out
+Seat 1: EngMarcoRoc ($2.15 in chips) 
+Seat 2: M@xium70 ($2.42 in chips) 
+Seat 3: DenyLi ($1.94 in chips) 
+Seat 4: dejavoo88 ($3.16 in chips) 
+Seat 7: everyonedoes ($1.97 in chips) 
+Seat 8: DiamaraQ ($2.30 in chips) 
+M@xium70: posts small blind $0.01
+DenyLi: posts big blind $0.02
+fukazapam: sits out 
+cintara: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [8h 2c]
+dejavoo88 has timed out
+dejavoo88: folds 
+everyonedoes: folds 
+DiamaraQ: raises $0.04 to $0.06
+EngMarcoRoc: folds 
+M@xium70: folds 
+DenyLi: calls $0.04
+*** FLOP *** [5d 8s 5h]
+DenyLi: checks 
+DiamaraQ: bets $0.06
+DenyLi: folds 
+Uncalled bet ($0.06) returned to DiamaraQ
+DiamaraQ collected $0.12 from pot
+DiamaraQ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0.01 
+Board [5d 8s 5h]
+Seat 5: fukazapam
+Seat 6: cintara
+Seat 9: aleas181
+Seat 1: EngMarcoRoc (button) folded before Flop (didn't bet)
+Seat 2: M@xium70 (small blind) folded before Flop
+Seat 3: DenyLi (big blind) folded on the Flop
+Seat 4: dejavoo88 folded before Flop (didn't bet)
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ collected ($0.12)
+
+
+
+PokerStars Hand #254088055370:  Hold'em No Limit ($0.01/$0.02 USD) - 2024/12/29 16:21:30 WET [2024/12/29 11:21:30 ET]
+Table 'Peacock II' 9-max Seat #2 is the button
+Seat 4: dejavoo88 ($3.16 in chips) is sitting out
+Seat 6: cintara ($0.80 in chips) is sitting out
+Seat 1: EngMarcoRoc ($2.15 in chips) 
+Seat 2: M@xium70 ($2.41 in chips) 
+Seat 3: DenyLi ($1.88 in chips) 
+Seat 5: fukazapam ($2 in chips) 
+Seat 7: everyonedoes ($1.97 in chips) 
+Seat 8: DiamaraQ ($2.36 in chips) 
+Seat 9: aleas181 ($0.80 in chips) 
+DenyLi: posts small blind $0.01
+fukazapam: posts big blind $0.02
+cintara: sits out 
+*** HOLE CARDS ***
+Dealt to everyonedoes [Qh 7d]
+everyonedoes: folds 
+DiamaraQ: folds 
+aleas181: raises $0.04 to $0.06
+EngMarcoRoc: folds 
+M@xium70: folds 
+DenyLi: folds 
+fukazapam: folds 
+Uncalled bet ($0.04) returned to aleas181
+aleas181 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 4: dejavoo88
+Seat 6: cintara
+Seat 1: EngMarcoRoc folded before Flop (didn't bet)
+Seat 2: M@xium70 (button) folded before Flop (didn't bet)
+Seat 3: DenyLi (small blind) folded before Flop
+Seat 5: fukazapam (big blind) folded before Flop
+Seat 7: everyonedoes folded before Flop (didn't bet)
+Seat 8: DiamaraQ folded before Flop (didn't bet)
+Seat 9: aleas181 collected ($0.05)
+
+
+
+PokerStars Hand #254087378531: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:37:51 WET [2024/12/29 10:37:51 ET]
+Table '3839705005 1' 3-max Seat #1 is the button
+Seat 1: everyonedoes (500 in chips) 
+Seat 2: Kierson (500 in chips) 
+Seat 3: jomell (500 in chips) 
+Kierson: posts small blind 10
+jomell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [3s 9d]
+everyonedoes: folds 
+Kierson: raises 480 to 500 and is all-in
+jomell: calls 480 and is all-in
+*** FLOP *** [Qd Tc Jh]
+*** TURN *** [Qd Tc Jh] [2h]
+*** RIVER *** [Qd Tc Jh 2h] [2s]
+*** SHOW DOWN ***
+Kierson: shows [Ac 4s] (a pair of Deuces)
+jomell: shows [Kd Qs] (two pair, Queens and Deuces)
+jomell collected 1000 from pot
+Kierson finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Qd Tc Jh 2h 2s]
+Seat 1: everyonedoes (button) folded before Flop (didn't bet)
+Seat 2: Kierson (small blind) showed [Ac 4s] and lost with a pair of Deuces
+Seat 3: jomell (big blind) showed [Kd Qs] and won (1000) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #254087383955: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:38:12 WET [2024/12/29 10:38:12 ET]
+Table '3839705005 1' 3-max Seat #3 is the button
+Seat 1: everyonedoes (500 in chips) 
+Seat 3: jomell (1000 in chips) 
+jomell: posts small blind 10
+everyonedoes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [3c 3d]
+jomell: folds 
+Uncalled bet (10) returned to everyonedoes
+everyonedoes collected 20 from pot
+everyonedoes: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: everyonedoes (big blind) collected (20)
+Seat 3: jomell (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254087385193: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:38:17 WET [2024/12/29 10:38:17 ET]
+Table '3839705005 1' 3-max Seat #1 is the button
+Seat 1: everyonedoes (510 in chips) 
+Seat 3: jomell (990 in chips) 
+everyonedoes: posts small blind 10
+jomell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [7d 9s]
+everyonedoes: folds 
+Uncalled bet (10) returned to jomell
+jomell collected 20 from pot
+jomell: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: everyonedoes (button) (small blind) folded before Flop
+Seat 3: jomell (big blind) collected (20)
+
+
+
+PokerStars Hand #254087386741: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:38:23 WET [2024/12/29 10:38:23 ET]
+Table '3839705005 1' 3-max Seat #3 is the button
+Seat 1: everyonedoes (500 in chips) 
+Seat 3: jomell (1000 in chips) 
+jomell: posts small blind 10
+everyonedoes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [8c 3s]
+jomell: raises 20 to 40
+everyonedoes: folds 
+Uncalled bet (20) returned to jomell
+jomell collected 40 from pot
+jomell: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: everyonedoes (big blind) folded before Flop
+Seat 3: jomell (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #254087389250: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:38:33 WET [2024/12/29 10:38:33 ET]
+Table '3839705005 1' 3-max Seat #1 is the button
+Seat 1: everyonedoes (480 in chips) 
+Seat 3: jomell (1020 in chips) 
+everyonedoes: posts small blind 10
+jomell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [Ah Jd]
+everyonedoes: raises 20 to 40
+jomell: calls 20
+*** FLOP *** [Th 3c Ks]
+jomell: checks 
+everyonedoes: bets 40
+jomell: folds 
+Uncalled bet (40) returned to everyonedoes
+everyonedoes collected 80 from pot
+everyonedoes: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 3c Ks]
+Seat 1: everyonedoes (button) (small blind) collected (80)
+Seat 3: jomell (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254087393285: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:38:49 WET [2024/12/29 10:38:49 ET]
+Table '3839705005 1' 3-max Seat #3 is the button
+Seat 1: everyonedoes (520 in chips) 
+Seat 3: jomell (980 in chips) 
+jomell: posts small blind 10
+everyonedoes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [4s 9d]
+jomell: raises 60 to 80
+everyonedoes: folds 
+Uncalled bet (60) returned to jomell
+jomell collected 40 from pot
+jomell: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: everyonedoes (big blind) folded before Flop
+Seat 3: jomell (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #254087395663: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:38:58 WET [2024/12/29 10:38:58 ET]
+Table '3839705005 1' 3-max Seat #1 is the button
+Seat 1: everyonedoes (500 in chips) 
+Seat 3: jomell (1000 in chips) 
+everyonedoes: posts small blind 10
+jomell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [4s 9s]
+everyonedoes: calls 10
+jomell: raises 80 to 100
+everyonedoes: folds 
+Uncalled bet (80) returned to jomell
+jomell collected 40 from pot
+jomell: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: everyonedoes (button) (small blind) folded before Flop
+Seat 3: jomell (big blind) collected (40)
+
+
+
+PokerStars Hand #254087398253: Tournament #3839705005, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/12/29 15:39:08 WET [2024/12/29 10:39:08 ET]
+Table '3839705005 1' 3-max Seat #3 is the button
+Seat 1: everyonedoes (480 in chips) 
+Seat 3: jomell (1020 in chips) 
+jomell: posts small blind 10
+everyonedoes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to everyonedoes [Th Jh]
+jomell: calls 10
+everyonedoes: raises 20 to 40
+jomell: calls 20
+*** FLOP *** [Qh 7h 3c]
+everyonedoes: checks 
+jomell: bets 80
+everyonedoes: raises 120 to 200
+jomell: calls 120
+*** TURN *** [Qh 7h 3c] [5d]
+everyonedoes: bets 240 and is all-in
+jomell: calls 240
+*** RIVER *** [Qh 7h 3c 5d] [5c]
+*** SHOW DOWN ***
+everyonedoes: shows [Th Jh] (a pair of Fives)
+jomell: shows [6d 3d] (two pair, Fives and Threes)
+jomell collected 960 from pot
+everyonedoes finished the tournament in 2nd place
+jomell wins the tournament - congratulations!
+jomell wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Qh 7h 3c 5d 5c]
+Seat 1: everyonedoes (big blind) showed [Th Jh] and lost with a pair of Fives
+Seat 3: jomell (button) (small blind) showed [6d 3d] and won (960) with two pair, Fives and Threes
+
+
